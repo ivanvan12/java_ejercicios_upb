@@ -1,0 +1,1 @@
+en otros lengiajes de programacion se evalua como true, valores numericos diferentes de cero y como false el numero 0, esto no pasa en javalos unicos valores bouleanos son true y false
